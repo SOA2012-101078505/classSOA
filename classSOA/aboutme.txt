@@ -1,0 +1,13 @@
+Name:Tai,Yu-Ting
+Nickname:Jessica
+
+Department:ISS
+Track:Infotech
+
+Programming background:
+-Java/C#/VB/HTML
+-SQLSever
+
+Work Experience:
+-write a webite(use website to access database)for a department in FarEast
+-
